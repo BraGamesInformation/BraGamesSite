@@ -88,3 +88,30 @@ h1{
 .FlexMenu > ul {
 	flex-direction: row;
 }
+.TituloCrash{
+	display: inline-flex;
+}
+.all > h1 {
+	color: white;
+}
+.all > p {
+	color: white;
+	border: solid;
+	font-size: 15px;
+	text-align: left;
+	text-decoration: none;
+}
+.all > img {
+	flex-direction: column;
+	width:;
+	height: 250px;
+}
+.all > table{
+	padding-top: 5px;
+	color: white;
+	font-size: 15px;
+}
+.all > p > a {
+	text-decoration: none;
+	color: gray;
+}
