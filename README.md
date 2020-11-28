@@ -1,4 +1,3 @@
-# BraGamesSite
 
 <!DOCTYPE html>
 <html>
@@ -19,8 +18,8 @@
 		  		<li><a href="#">Categorias</a>
 		         	<ul>
 		                  <li><a href="Ação.html">Ação</a></li>
-		                  <li><a href="Fps.html">Aventura</a></li>
-		                  <li><a href="Aventura.html">Fps</a></li>
+		                  <li><a href="Aventura.html">Aventura</a></li>
+		                  <li><a href="Fps.html">Fps</a></li>
 		                  <li><a href="Vida Virtual.html">Vida Virtual</a></li>
 		                  <li><a href="Musica_Dança.html">Musica/Dança</a></li>
 		                  <li><a href="Esportes.html">Esportes</a></li>
