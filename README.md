@@ -20,11 +20,8 @@
 		                  <li><a href="Ação.html">Ação</a></li>
 		                  <li><a href="Aventura.html">Aventura</a></li>
 		                  <li><a href="Fps.html">Fps</a></li>
-		                  <li><a href="Vida Virtual.html">Vida Virtual</a></li>
 		                  <li><a href="Musica_Dança.html">Musica/Dança</a></li>
 		                  <li><a href="Esportes.html">Esportes</a></li>
-		                  <li><a href="Luta.html">Luta</a></li>
-		                  <li><a href="Simulação.html">Simulação de Corrida</a></li>
 		       		</ul>
 				</li>
 				<li><a href="Sobre.html">Sobre</a></li>
@@ -32,7 +29,8 @@
 			<li><a href="Contato.html">Contato</a></li>
 		</ul>
 	</nav>
-
-	#Bem vindo(a) ao BraGamesInformation 
+	<div class="all" > 
+	<h1>Bem vindo(a) ao BraGamesInformation</h1> 
 	<p> Para entrar em nosso site principal, você pode <a href="https://bragamesinformation.github.io/BraGamesSite/BraGamesInformation.html" >clicar aqui</a> ou utilizar nosso menu </p>
+	</div>
 </html>
