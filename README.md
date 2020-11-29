@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
 <head>
  	<meta charset="utf-8">
@@ -33,7 +33,6 @@
 		</ul>
 	</nav>
 
-	
-
-</body>
+	#Bem vindo(a) ao BraGamesInformation 
+	<p> Para entrar em nosso site principal, você pode <a href="https://bragamesinformation.github.io/BraGamesSite/BraGamesInformation.html" >clicar aqui</a> ou utilizar nosso menu </p>
 </html>
