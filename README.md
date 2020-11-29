@@ -25,7 +25,6 @@
 		       		</ul>
 				</li>
 				<li><a href="Sobre.html">Sobre</a></li>
-			</li>
 			<li><a href="Contato.html">Contato</a></li>
 		</ul>
 	</nav>
